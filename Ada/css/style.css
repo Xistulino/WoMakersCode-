@@ -1,0 +1,67 @@
+ *{
+    margin:0;
+    padding: 0;
+    border:0;
+  }
+  
+  body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:rgb(247, 147, 217);
+  }
+
+  h1{
+    color:#650aa1;
+    text-align: center;
+    font-size: 50px;
+    display: flex;
+    margin-left: 50px;
+    padding-bottom: 50px;
+    line-height: 1.35;
+  }
+
+  p{
+    text-align: center;
+    font-size: 25px;
+    color:#b90ce4;
+  }
+  
+  .img{
+    width: 400px;
+    border-radius: 100px;
+    padding: 20px;
+  }
+  
+  .img{
+    width: 250px;
+   }
+
+   .Sobre{
+    color:#650aa1;
+    text-align: center;
+    font-size: 25px;
+   }
+
+  footer img{
+    width: 100px;
+    padding: 5px 15px;
+    display: inline-block;
+   }
+  
+  footer img:hover{
+    background-color:#f31da1;
+    color: #f7a5d2;
+    cursor: pointer;
+    transform: 1s;
+  }
+  
+  
+  footer{
+    background-color:#650aa1;
+    display: flex;
+    align-items: center;
+    padding: 20px 10px;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  
